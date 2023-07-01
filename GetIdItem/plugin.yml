@@ -1,0 +1,12 @@
+name: GetID
+api: 5.0.0
+version: 1.0.0
+author: KiritoTvT
+main: Ki\GetID
+commands:
+  getid:
+    description: "Get TypeID Of Item"
+    permission: id.cmd
+permissions:
+  id.cmd:
+    default: op
